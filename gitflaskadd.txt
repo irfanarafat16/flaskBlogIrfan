@@ -1,0 +1,3 @@
+git remote set-url origin https://irfanarafat16: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@github.com/irfanarafat16/flaskBlogIrfan.git
+git push --set-upstream origin master
+git push
